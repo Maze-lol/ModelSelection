@@ -53,7 +53,7 @@ FinalModelSelection does this things :
 - Select the best model based on performance on the validation set
 - Evaluate that model on the holdout test set
 
-## How does it
+## How it does it
 
 <img width="1080" alt="hyperparameters" src="https://user-images.githubusercontent.com/70954565/130761273-5d076621-c5a0-4a25-b30f-1d851f07a942.png">
 
